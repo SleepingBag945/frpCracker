@@ -1,7 +1,7 @@
 # frpCracker
 一款golang编写的，批量检测frp server未授权访问、弱token的工具
 
-![image-20230501143507003](/Users/coco/Desktop/Code/frp/frpCracker/assets/image-20230501143507003.png)
+![image-20230501143507003](./assets/image-20230501143507003.png)
 
 
 
